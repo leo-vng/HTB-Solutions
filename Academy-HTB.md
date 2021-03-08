@@ -1,8 +1,3 @@
----
-title: Academy/10.10.10.215 (HTB)
-published: true
----
-
 # Contributers
 
 * acoozi
